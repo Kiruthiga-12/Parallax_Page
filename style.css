@@ -61,5 +61,12 @@ margin: 0%;
     background-image: url(Images/img_7.jpg);
 }
 
+audio{
+    width:25%;
+    height:6.5%;
+    margin-left: 73%;
+    position:fixed;
+    margin-top: 1%
+}
 
 
